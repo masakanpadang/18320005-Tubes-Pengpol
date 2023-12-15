@@ -2,4 +2,5 @@
 Nama : Maheswara Apta Adiyatma <br />
 NIM  : 18320005
 
-Folder main berisi source code dari aplikasi
+- Folder main berisi source code dari aplikasi
+- Gunakan TUBES-PENGPOL.apk untuk menginstall aplikasi
